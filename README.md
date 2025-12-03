@@ -77,6 +77,6 @@ Press any key to close this window . . .
 
 | Redni broj | Naziv promenljive | Tip promenljive |
 |------------|-------------------|-----------------|
-|1.          |'d1'               | 'double'        |
-|2.          |'d2'               | 'double'        |
-|3.          |'P'                | 'double'        |
+|1.          |`d1`               | `double`        |
+|2.          |`d2`               | `double`        |
+|3.          |`P`                | `double`        |
